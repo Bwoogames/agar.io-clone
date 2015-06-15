@@ -1,5 +1,5 @@
 {
-  "name": "agar-clone",
+  "name": "My-Agar",
   "version": "1.0.0",
   "description": "A simple Agar.io clone",
   "main": "server/server.js",
@@ -20,7 +20,8 @@
     "Ariamiro <dossantosgusmaosavio@gmail.com> (https://github.com/Ariamiro)",
     "VILLERS Mickaël <mickael.villers@epitech.eu> (https://github.com/villers)",
     "Dan Prince <dan@astrealdynamics.co.uk> (https://github.com/danprince)",
-    "Kostas Bariotis <konmpar@gmail.com> (https://github.com/kbariotis)"
+    "Kostas Bariotis <konmpar@gmail.com> (https://github.com/kbariotis)",
+    "Bwoogames <bwoogames@gmail.com> (https://github.com/bwoogames)"
   ],
   "dependencies": {
     "bower": "^1.4.1",
